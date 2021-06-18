@@ -1,9 +1,6 @@
-2.1.4	ຄວາມໝາຍ ແລະ ສັນຍະລັກຂອງ Flowchart (ເບິງໃນ proposal ໜ້າ 12)====
-2.1.7	ຄວາມຮູ້ພື້ນຖານກ່ຽວກັບພາສາ JavaScript (ເບິງໃນ proposal ໜ້າ 24)=====
-2.1.8	ຄວາມຮູ້ພື້ນຖານກ່ຽວກັບ Application Programming Interface (API) ລິ້ງ -> https://saixiii.com/what-is-api/====
-2.1.10	ຄວາມຮູ້ພື້ນຖານກ່ຽວກັບ Reactjs (JavaScript Library) (ເບິງໃນ proposal ໜ້າ 26)====
-2.1.12	ຄວາມຮູ້ພື້ນຖານກ່ຽວກັບ expressjs (Nodejs Library) (ເບິງໃນ proposal ໜ້າ 29)====
-2.1.13	ຄວາມຮູ້ພື້ນຖານກ່ຽວກັບ Progressive Web App (PWA) ລິ້ງ -> https://www.rainmaker.in.th/progressive-web-apps/====
-2.1.17	ຄວາມຮູ້ກ່ຽວກັບໂປຣແກຣມ Visual Studio Code (ເບິງໃນ proposal ໜ້າ 23)====
-3.1	ວິທີສຶກສາ ແລະ ຄົ້ນຄວ້າ (ເບິງໃນ proposal ໜ້າ 6)
 
+3.3.3	ແຜນວາດເນື້ອຫາ (Context Diagram)
+3.3.5	ແຜນວາດການໄຫຼຂໍ້ມູນ (Data Flow Diagram: DFD)
+export ເອົາມາຈາກ ຟາຍ Context Diagram.vsdx export ເປັນ .jpeg
+
+3.4.3	ການອອກແບບຖານຂໍ້ມູນ (ເຮັດຕາຕະລາງ ຂໍ້ 2-12 ເບິງຕົວຢາງຂໍ້1)
