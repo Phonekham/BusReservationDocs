@@ -1,6 +1,2 @@
 
-3.3.3	ແຜນວາດເນື້ອຫາ (Context Diagram)
-3.3.5	ແຜນວາດການໄຫຼຂໍ້ມູນ (Data Flow Diagram: DFD)
-export ເອົາມາຈາກ ຟາຍ Context Diagram.vsdx export ເປັນ .jpeg
 
-3.4.3	ການອອກແບບຖານຂໍ້ມູນ (ເຮັດຕາຕະລາງ ຂໍ້ 2-12 ເບິງຕົວຢາງຂໍ້1)
